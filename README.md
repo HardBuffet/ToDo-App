@@ -15,7 +15,7 @@
 
 ### Links
 
-- Live Site URL: [GitHub]()
+- Live Site URL: [GitHub](https://hardbuffet.github.io/ToDo-App/)
 
 ## My process
 
