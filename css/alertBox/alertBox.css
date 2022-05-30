@@ -1,0 +1,29 @@
+/* LOOK */
+.alertBox {
+  background: var(--alertBoxBg);
+  color: var(--alertBoxColor);
+  box-shadow: var(--alertBoxBoxShadow);
+  border-radius: 15px;
+}
+
+/* TYPOGRAPHY */
+.alertBox {
+  width: 400px;
+  top: 30px;
+  left: 30px;
+  margin: auto;
+  position: fixed;
+  z-index: 9999;
+  padding: 10px;
+}
+
+.alertBox__title {
+  text-align: center;
+  font-size: 2rem;
+  line-height: 40px;
+  margin-bottom: 5px;
+}
+
+.alertBox__info {
+  font-size: 1.1rem;
+}
